@@ -1,0 +1,25 @@
+_repo: Harbor-Jim-of-Newfoundland_43934
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43934-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bartlett, Alden Eugene
+    birthdate: 1873
+    gutenberg_agent_id: '42485'
+    url: http://www.gutenberg.org/2009/agents/42485
+description: ''
+gutenberg_issued: '2013-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Newfoundland and Labrador -- Fiction'
+- !lcc 'PS'
+title: Harbor Jim of Newfoundland
+url: http://www.gutenberg.org/ebooks/43934
