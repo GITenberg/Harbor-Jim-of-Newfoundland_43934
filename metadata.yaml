@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42485'
     url: http://www.gutenberg.org/2009/agents/42485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43934#Harbor-Jim-of-Newfoundland
 gutenberg_issued: '2013-10-11'
 gutenberg_type: Text
 identifiers:
